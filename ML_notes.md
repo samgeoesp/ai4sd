@@ -55,3 +55,9 @@ tSNE
 ### Classification: Mahesan Niranjan
 
 X vs. y with two plots of high/low pairs that overlap. Can store as a vector of both class 1 and class 2.
+
+ROC Curves
+
+>
+> Add to this.
+>
