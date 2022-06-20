@@ -13,7 +13,7 @@ Predictions are not rational when having a overtly complicated function approxim
 To maintain the same accuracy at higher and higher densities you need expenentionally more data. 
 
 >
-> Add to this
+> Add to this.
 >
 
 
@@ -26,4 +26,29 @@ Different correlations of data:
 - Data note correlated = clump.
 - Data linearally correlated = line to the effect of y = x.
 - y equals a relatively consistent x.
+
+Principle Component Analysis
+
+>
+> Add to this.
+>
+
+Constrained Optimisation Problems
+
+>
+> Add to this.
+>
+
+Autoencoders
+
+>
+> Add to this.
+>
+
+tSNE
+
+>
+> Add to this.
+>
+
 
