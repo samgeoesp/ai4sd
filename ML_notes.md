@@ -23,7 +23,7 @@ Frequentist thought vs. Bayesian thought.
 
 Different correlations of data:
 
-- Data note correlated = clump.
+- Data not correlated = clump.
 - Data linearally correlated = line to the effect of y = x.
 - y equals a relatively consistent x.
 
@@ -52,3 +52,6 @@ tSNE
 >
 
 
+### Classification: Mahesan Niranjan
+
+X vs. y with two plots of high/low pairs that overlap. Can store as a vector of both class 1 and class 2.
