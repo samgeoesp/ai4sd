@@ -4,3 +4,26 @@
 
 Spoke about the development of data and examples of this. Examples of data with and without targets - in particular mentioning investigating spread 
 of this data. Also mentioned the high dimensional space associated with experimental datasets. Supervised vs. Unsupervised.
+
+
+Predictions are not rational when having a overtly complicated function approximator. To make this more reasonable, add regularization.
+
+'Curse of Dimensionality'
+
+To maintain the same accuracy at higher and higher densities you need expenentionally more data. 
+
+>
+> Add to this
+>
+
+
+### Machine Learning: Estimation - Mahesan Niranjan
+
+Frequentist thought vs. Bayesian thought.
+
+Different correlations of data:
+
+- Data note correlated = clump.
+- Data linearally correlated = line to the effect of y = x.
+- y equals a relatively consistent x.
+
