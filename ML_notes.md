@@ -99,4 +99,14 @@ Regularisation applies a small constant (diagonal matrix) to eleviate the proble
 the problems. Restricts the a value from reaching large values.
 L1 norm (sum of absolute values of a) is another method to provide regularisation by pushing smaller values to 0. This provides a sparse solution. 
 
-Perceptron
+Perceptron - A suitable performance measure
+
+Number of misclassified examples as measure of error = Piecewise constant. You cannot differentiate this because it is stepwise.
+
+Instead, for a suitable error measure you use the dot product sum of all the misclassified examples. Once you have the function you compute the gradient 
+to then use with new predictions. Defining a loss function for your problem is very important - the wrong loss function will impact model performance. 
+
+>
+> Add to this.
+> 
+
