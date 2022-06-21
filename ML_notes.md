@@ -110,3 +110,37 @@ to then use with new predictions. Defining a loss function for your problem is v
 > Add to this.
 > 
 
+### Machine Learning: Radial Basis Functions and Multi-Layer Perceptrons - Mahesan Niranjan
+
+
+Radial Basis Functions:
+
+Fix non linear part in data-dependent way and estimate only a linear part utilising Linear Regression.
+
+> 
+> Add to this.
+>
+
+Multi-Layer Perceptron
+
+Completely non-linear models. A lot of the previous logistics combined together. *Read up on backpropogation.*
+
+Deeper layers can affect gradients - vanishing gradient problem. Multiplying small weights by small weights makes smaller and smaller gradients thus, poor 
+predictive ability.
+
+To speed up training you can update weights and curvature information as you go. This is 'Newton's Method' and has the issue mentioned earlier with 
+inverting the Hessian. To sit inbetween there is algorithms to aide sufficient gradient descent. One is *momentum* which weights the change based upon 
+previous weight and proposed weight change for this step. This is the idea to smooth the error function by carrying information forward. An example is 
+*QuickProp* which measures gradient in two different places then updates the weight. 
+
+Performance on Out-of-Sample Data - unseen data.
+
+Don't want to overfit to the train. Combat this with early stopping implemented nicely in TensorFlow.
+
+>
+> Insert epoch vs. accuracy plot.
+>
+
+Deep Learning - Mahesan Niranjan
+
+Approximating Data + Regularisation leads to Generalisation. 
