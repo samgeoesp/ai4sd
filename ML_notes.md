@@ -144,3 +144,14 @@ Don't want to overfit to the train. Combat this with early stopping implemented 
 Deep Learning - Mahesan Niranjan
 
 Approximating Data + Regularisation leads to Generalisation. 
+
+
+Reinforcement Learning - Stephen Gow
+
+Explore vs. Exploit
+Designing reward functions is a problem specific task that is often very computationally expensive.
+
+Policy and Value Learning - Policy learning is where an optimal policy is learned directly. Value is ...
+
+
+
